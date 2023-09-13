@@ -1,5 +1,3 @@
->**Date**
-
 >*And maybe in the future, it will be a memory, today's date: 28.06.2023 (03:50
 AM)*
 
